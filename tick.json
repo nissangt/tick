@@ -1,6 +1,8 @@
-[
-  {
-    "title": "Test",
-    "playlist_url": "https://www.w3schools.com/html/mov_bbb.mp4"
-  }
-]
+{
+  "items": [
+    {
+      "title": "Test",
+      "playlist_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+    }
+  ]
+}
